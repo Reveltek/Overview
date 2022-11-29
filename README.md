@@ -4,7 +4,7 @@ We pioneer advanced scientific research for exploration and mapping of the unive
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/TaoFruit/instar/blob/gh-pages/img/logo/instar.png" alt="Instar Lab" width="400">
+  <img src="https://instarlab.org/img/logo/instar.svg" alt="Instar Lab" width="400">
 </h1>
 
 ## :diamonds:NAICS and SIN Code
