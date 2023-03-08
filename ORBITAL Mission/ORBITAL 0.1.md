@@ -22,3 +22,4 @@ In the ORBITAL Framework, there are five levels: Galaxy, Super Nova, Super Star,
 - A Super Star is a very large company, powerful department, or highly successful product team.
 - A Star represents a company or project.
 - A Droid is a series of tasks or smaller projects that we intelligently perform to intentionally steer a star or multiple stars towards a Super Nova event.
+
