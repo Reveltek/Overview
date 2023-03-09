@@ -8,8 +8,8 @@
 ## Super STAR- Role model company or growing project. 
 ## STAR
 ## MOON-
-## COMET-
-## ASTEROID- 
+## COMET- Unstable project/company that needs planning
+## ASTEROID- Unstable project/company that needs planning
 
 
 ## 1. Galaxy: 
