@@ -1,5 +1,11 @@
 
 
+## Galaxy- Entire Industry 
+## Black Hole- Biggest company in the industry/ Largest competitor
+## Super Nova- Event that brings shift _ A shift that can be felt in the entire Galaxy (entire industry)
+## Solar System- 
+
+
 ## 1. Galaxy: 
 This section defines a business galaxy as an entire industry, with interconnected companies, organizations, and stakeholders offering similar products or services and competing for the same customers. The companies within a galaxy are constantly evolving, with new companies appearing and older ones either consolidating or going out of business.
 
