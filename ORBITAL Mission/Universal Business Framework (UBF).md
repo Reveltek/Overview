@@ -6,8 +6,8 @@
 ## Solar System- Categories / sub part of Galaxy. Different solar systems makes Galaxy. Each solar system is dependend on eachother.
 ## Sun- The largest publicly visible company inside a solar system or the headquarters of an organization.
 ## Super STAR- Role model company or growing project. 
-## STAR
-## MOON-
+## STAR- A small company
+## MOON- Side project or Startup or department or Orbital. We define Moon using ORBITAL System
 ## COMET- Unstable project/company that needs planning
 ## ASTEROID- Unstable project/company that needs planning
 
