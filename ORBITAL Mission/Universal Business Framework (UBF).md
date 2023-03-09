@@ -3,7 +3,9 @@
 ## Galaxy- Entire Industry 
 ## Black Hole- Biggest company in the industry/ Largest competitor
 ## Super Nova- Event that brings shift _ A shift that can be felt in the entire Galaxy (entire industry)
-## Solar System- Categories / sub part of Galaxy. Different solar systems makes Galaxy. Each solar system is dependend on eachother. 
+## Solar System- Categories / sub part of Galaxy. Different solar systems makes Galaxy. Each solar system is dependend on eachother.
+## Sun- The largest publicly visible company inside a solar system or the headquarters of an organization.
+## Super STAR- 
 
 
 ## 1. Galaxy: 
