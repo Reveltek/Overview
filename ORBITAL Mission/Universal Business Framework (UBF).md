@@ -5,7 +5,11 @@
 ## Super Nova- Event that brings shift _ A shift that can be felt in the entire Galaxy (entire industry)
 ## Solar System- Categories / sub part of Galaxy. Different solar systems makes Galaxy. Each solar system is dependend on eachother.
 ## Sun- The largest publicly visible company inside a solar system or the headquarters of an organization.
-## Super STAR- 
+## Super STAR- Role model company or growing project. 
+## STAR
+## MOON-
+## COMET-
+## ASTEROID- 
 
 
 ## 1. Galaxy: 
