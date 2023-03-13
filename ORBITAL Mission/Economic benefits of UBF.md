@@ -16,3 +16,4 @@ By understanding the structure and dynamics of the galaxies within an industry, 
 
 ## Improved Risk Management: 
 The UBF program maps and observes S.T.A.R.s along their due course while aiding them in navigating obstacles in a defined manner. This helps organizations identify potential risks and take steps to mitigate them, leading to improved risk management and reduced losses.
+
