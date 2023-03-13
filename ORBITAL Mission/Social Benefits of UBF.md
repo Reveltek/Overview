@@ -20,3 +20,6 @@ The UBF can help organizations operate more efficiently by identifying areas for
 
 ## Greater social impact: 
 By promoting ethical and sustainable practices, the UBF can help organizations have a positive social impact and contribute to the greater good
+
+## SWARM Intelligence 
+Promotes the use of SWARM Intelligence, Agile Methodology, and DROID Ops frameworks, which are all geared towards maximizing productivity and promoting collaboration.
